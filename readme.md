@@ -49,7 +49,7 @@ Input the desired car atributes:
 
 #### **Deployed Shiny App**
 
-**The deployed app is available at [Shinyapps.io](https://mannyjoe65.shinyapps.io/developing-data-products)**
+**The deployed app is available at [Shinyapps.io](https://mannyjoe65.shinyapps.io/Developing-Data-Products)**
 
 #### **Source Codes**
 
