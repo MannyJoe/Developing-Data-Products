@@ -45,7 +45,7 @@ Input the desired car atributes:
 
 #### **Presentation Pitch**
 
-**The presentation pitch is available at [RPubs](http://rpubs.com/MannyJoe/Dveloping-Data-Products)**
+**The presentation pitch is available at [RPubs](http://rpubs.com/MannyJoe/Developing-Data-Products)**
 
 #### **Deployed Shiny App**
 
