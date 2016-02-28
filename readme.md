@@ -1,0 +1,58 @@
+---
+title: "Coursera Developing Data Products Project"
+author: "Manny Joe"
+date: "February 26, 2016"
+output: html_document
+---
+
+***
+
+### **MOTOR TREND CARS FUEL CONSUMPTION SHINY APP**
+
+***
+
+### **Dataset**
+
+This Shiny app uses the default "mtcars" dataset installed with R. The data was extracted from a study conducted by Motor Trend magazine, comprising of fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-74 models).
+
+### **Application Description**
+
+This Shiny app displays the fuel consumption based on 3 of the 10 aspects studied by Motor Trend:
+
+1. No. of Clylinders, 
+2. Transmission Type, and 
+3. Available Horsepower.
+
+***
+
+### **INSTRUCTIONS**
+
+***
+
+Input the desired car atributes:
+
+* No. of cylinders, 
+* Transmission type, and 
+* Available Horsepower
+
+*Results are located in the "Results" tab!*
+
+***
+
+### **FILE LOCATIONS**
+
+***
+
+#### **Presentation Pitch**
+
+**The presentation pitch is available at [RPubs](http://rpubs.com/MannyJoe/Dveloping-Data-Products)**
+
+#### **Deployed Shiny App**
+
+**The deployed app is available at [Shinyapps.io](https://mannyjoe65.shinyapps.io/developing-data-products)**
+
+#### **Source Codes**
+
+**The course submission source codes are available at [GitHub](https://github.com/MannyJoe/Developing-Data-Products)**
+
+***
