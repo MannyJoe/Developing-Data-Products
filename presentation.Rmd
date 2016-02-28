@@ -1,0 +1,46 @@
+---
+title: "Developing Data Products - Shiny Application for Motor Trend Magazine MPG Study"
+author: "Manny Joe"
+date: "February 27, 2016"
+output: ioslides_presentation
+---
+
+## DATASET
+This Shiny app uses the default "mtcars" dataset installed with R that was extracted from a study conducted by Motor Trend magazine, including MPG and 10 other automobile attributes.
+```{r, echo=FALSE}
+summary(mtcars)
+```
+
+## DATASET PLOT
+
+Here is a descriptive plot of the built-in "mtcars" dataset:
+
+```{r, echo=FALSE}
+plot(mtcars)
+```
+
+## APPLICATION DESCRIPTION
+
+This Shiny app displays the fuel consumption based on 3 of the 10 aspects studied by Motor Trend:
+
+- No. of Clylinders, 
+
+- Transmission Type, and 
+
+- Available Horsepower.
+
+## INSTRUCTIONS
+
+The App accepts user input for three attributes:
+
+* No. of cylinders, 
+* Transmission type, and 
+* Available Horsepower
+
+The results will be calculated and displayed in the "results" tab.
+
+* The presentation pitch is available at [RPubs](http://rpubs.com/MannyJoe/Developing-Data-Products)
+
+* The deployed app is available at [Shinyapps.io](https://mannyjoe65.shinyapps.io/Developing-Data-Products)
+
+* The course submission source codes are available at [GitHub](https://github.com/MannyJoe/Developing-Data-Products)
